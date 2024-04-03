@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\NumericUpDown Uygulaması\NumericUpDown Uygulaması\bin\Debug\NumericUpDown Uygulaması.exe.config
+C:\Users\user\source\repos\NumericUpDown Uygulaması\NumericUpDown Uygulaması\bin\Debug\NumericUpDown Uygulaması.exe
+C:\Users\user\source\repos\NumericUpDown Uygulaması\NumericUpDown Uygulaması\bin\Debug\NumericUpDown Uygulaması.pdb
+C:\Users\user\source\repos\NumericUpDown Uygulaması\NumericUpDown Uygulaması\obj\Debug\NumericUpDown Uygulaması.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\NumericUpDown Uygulaması\NumericUpDown Uygulaması\obj\Debug\NumericUpDown Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\NumericUpDown Uygulaması\NumericUpDown Uygulaması\obj\Debug\NumericUpDown_Uygulaması.Form1.resources
+C:\Users\user\source\repos\NumericUpDown Uygulaması\NumericUpDown Uygulaması\obj\Debug\NumericUpDown_Uygulaması.Properties.Resources.resources
+C:\Users\user\source\repos\NumericUpDown Uygulaması\NumericUpDown Uygulaması\obj\Debug\NumericUpDown Uygulaması.csproj.GenerateResource.cache
+C:\Users\user\source\repos\NumericUpDown Uygulaması\NumericUpDown Uygulaması\obj\Debug\NumericUpDown Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\NumericUpDown Uygulaması\NumericUpDown Uygulaması\obj\Debug\NumericUpDown Uygulaması.exe
+C:\Users\user\source\repos\NumericUpDown Uygulaması\NumericUpDown Uygulaması\obj\Debug\NumericUpDown Uygulaması.pdb
